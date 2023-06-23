@@ -95,6 +95,7 @@ footer{
     font-size: 24px;
     font-style: italic;
     box-shadow: 10px 10px 10px #295922;
+    text-shadow: 1px 1px 2px #295922;
 }
 
 footer img{
