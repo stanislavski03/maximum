@@ -1,0 +1,104 @@
+body{
+    background-color: #f0e7dd;
+    font-family: cursive;
+
+
+}
+
+h1{
+    font-size: 55px;
+    text-align: center;
+    border-bottom: 5px solid #cfc6bc;
+    margin-top: 10px;
+}
+
+h2{
+    font-size: 40px;
+}
+
+.main{
+    display: flex;
+    font-size: 20px;
+    justify-content: space-around;
+}
+
+
+
+.share{
+    background-color: #fcf2e6;
+    width: 500px;
+    height: 250px;
+    text-align: center;
+}
+
+.random{
+    background-color: #fcf2e6;
+    width: 500px;
+    height: 250px;
+    text-align: center;
+}
+
+.vk{
+    color: #14a6fa;
+    text-decoration: none;
+}
+
+.vk:hover{
+    color: #146491;
+}
+
+.tg{
+    color: #f23d3d;
+    text-decoration: none;
+}
+
+.tg:hover{
+    color: #992323;
+}
+
+.torandomorg{
+    font-size: 20px;
+    color: black;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 6px;
+    text-decoration: none;
+    width: 150px;
+    height: 50px;
+    cursor: pointer;
+}
+
+.torandomorg:hover{
+    color: white;
+    background-color: black;
+}
+
+footer{
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.loremipsum{
+    background-color: #fcf2e6;
+    display: block;
+    justify-content: space-around;
+    text-align: center;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    padding-bottom: 1px;
+    padding-top: 1px;
+    padding: 5px 20px 5px 20px;
+    font-size: 24px;
+    font-style: italic;
+    box-shadow: 10px 10px 10px #295922;
+}
+
+footer img{
+    width: 30%;
+    margin-bottom: 30px;
+
+}
